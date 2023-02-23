@@ -1,2 +1,2 @@
-# TIL
-Today I Learn
+# TIL(Today I Learn)
+오늘 하루 익히고, 다룬 기술이나 업무에 대해 짧게라도 좋으니 꾸준하게 하루의 마무리를 TIL 작성으로 끝내보려 합니다^^
